@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eandualem/CLionProjects/cppHeader/fib.h
+
+/Users/eandualem/CLionProjects/cppHeader/main.cpp
+iostream
+-
+fib.h
+/Users/eandualem/CLionProjects/cppHeader/fib.h
+
